@@ -1,6 +1,6 @@
 # XYZ Membership Loyalty Programme software
 
-This project is done as my submission for the Fundamentals Of Programming assignment from Singapore Polytechnic. 
+This project is done as my submission for the Fundamentals Of Programming assignment from Singapore Polytechnic AY22/23. 
 This program allows users to read, edit, modify, and delete membership information.
 
 ## Setup
